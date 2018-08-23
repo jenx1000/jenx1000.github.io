@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Photographer Jenny Benjamin, Montmorency, Melbourne, Victoria</title>
+
+<style type="text/css">
+body {
+    background-color:#000000;
+}
+
+#container {
+    width:100%;
+    border:0;
+    overflow:auto;
+    position:relative;
+    margin:0 auto;
+    padding:0;
+    text-align:center;
+    }
+
+p {
+    text-align: center;
+    color:#f3f3f3;
+    font-family:'lucida sans unicode', 'lucida grande', sans-serif;
+}
+
+</style>
+</head>
+
+<body>
+  <div id="container">
+  <h1> Jenny Benjamin, Photographer, Montmorency </h1>
+    <div style="margin:100px; font-size:2em;">
+      <p> sorry, there is no such page, this is a 404 error </p>
+   </div>
+   <div style="margin:300px; font-size:6em;">
+      <p> Never give up! </p>
+    </div>
+
+</html>

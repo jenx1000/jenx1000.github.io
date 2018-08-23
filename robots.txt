@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /gingercat/
+Disallow: /css/
+Disallow: /photography/
